@@ -1,0 +1,6 @@
+{
+  "buildCommand": "yarn build",
+  "git": {
+    "deploymentEnabled": false
+  }
+}
