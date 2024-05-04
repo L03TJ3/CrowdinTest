@@ -10,8 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@tamagui/vite-plugin": "^1.88.13",
-    "@tamagui/web": "^1.88.13",
+    "@tamagui/vite-plugin": "^1.96.0",
+    "@tamagui/web": "^1.96.0",
     "prop-types": "^15.8.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -20,11 +20,11 @@
     "react-native-web": "^0.19.10",
     "react-native-web-webview": "^1.0.2",
     "react-native-webview": "^13.6.4",
-    "tamagui": "^1.88.13"
+    "tamagui": "^1.96.0"
   },
   "devDependencies": {
     "@lingui/vite-plugin": "^4.7.0",
-    "@tamagui/config": "^1.88.13",
+    "@tamagui/config": "^1.96.0",
     "@types/prop-types": "^15",
     "@types/react": "^18.2.43",
     "@types/react-dom": "^18.2.18",

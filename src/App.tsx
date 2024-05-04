@@ -1,6 +1,6 @@
 import "@tamagui/core/reset.css";
 import { createTamagui, TamaguiProvider, View } from "tamagui";
-import { config } from "@tamagui/config/v2";
+import { config } from "@tamagui/config/v3";
 import { ExampleComponent } from "./components/ExampleComponent";
 
 // you usually export this from a tamagui.config.ts file:
