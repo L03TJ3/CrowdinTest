@@ -25,4 +25,4 @@ dist-ssr
 .vscode
 .certs
 .yalc
-.yarn
+.yarn/cache
