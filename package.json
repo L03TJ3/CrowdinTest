@@ -7,9 +7,15 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "lingui": "lingui extract && lingui compile"
   },
   "dependencies": {
+    "@lingui/cli": "^4.11.0",
+    "@lingui/detect-locale": "^4.11.0",
+    "@lingui/loader": "^4.11.0",
+    "@lingui/macro": "^4.11.0",
+    "@lingui/react": "^4.11.0",
     "@tamagui/vite-plugin": "^1.96.0",
     "@tamagui/web": "^1.96.0",
     "prop-types": "^15.8.1",
